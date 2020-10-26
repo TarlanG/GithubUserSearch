@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  margin: 0px 10px;
+}
+
+ul{list-style: none;}
+
+.header{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: black;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.header input{
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.main-container{
+  margin-top: 180px;
+  text-align: center;
+}
+
+.following{
+  width: 400px;
+  border: 1px solid black;
+  padding: 40px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.following img{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.following li{
+  text-align: left;
+  border: 1px solid black;
+}
